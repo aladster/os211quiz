@@ -1,0 +1,176 @@
+ZCZC ===== Chapter 07_7 =====  Week 09 =====
+ZCZC pwd /home/aladster/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1404
+ZCZC hostname aladster
+ZCZC username aladster
+ZCZC Please Wait...
+ZCZC okSources 82
+ZCZC READY!
+ZCZC Sources  418M	/mnt/lfs/sources/
+ZCZC verifyTokenn aladsterW09 aladster 0435-EED2 Verified
+ZCZC MaxLFS 3076M
+ZCZC MaxROOT 3642M
+ZCZC MaxMemory 165M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 166M
+ZCZC MaxMemory 173M
+ZCZC MaxMemory 176M
+ZCZC MaxMemory 177M
+ZCZC verifyTokenn aladsterW09 aladster 0537-1172 Verified
+ZCZC MaxMemory 179M
+ZCZC MaxMemory 180M
+ZCZC verifyTokenn aladsterW09 aladster 0638-7B13 Verified
+ZCZC MaxLFS 3151M
+ZCZC MaxMemory 245M
+ZCZC MaxLFS 3599M
+ZCZC MaxMemory 250M
+ZCZC MaxLFS 3954M
+ZCZC verifyTokenn aladsterW09 aladster 0740-E799 Verified
+ZCZC MaxLFS 3955M
+ZCZC MaxLFS 3958M
+ZCZC MaxLFS 3963M
+ZCZC MaxMemory 284M
+ZCZC MaxLFS 3974M
+ZCZC MaxMemory 493M
+ZCZC MaxLFS 3986M
+ZCZC MaxLFS 4010M
+ZCZC MaxMemory 822M
+ZCZC MaxLFS 4029M
+ZCZC MaxLFS 4046M
+ZCZC MaxLFS 4135M
+ZCZC verifyTokenn aladsterW09 aladster 0841-1AD5 Verified
+ZCZC MaxLFS 4141M
+ZCZC verifyTokenn aladsterW09 aladster 0943-3F4C Verified
+ZCZC verifyTokenn aladsterW09 aladster 1044-4F83 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1145-F89B Verified
+ZCZC verifyTokenn aladsterW09 aladster 1246-1411 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1348-AC2B Verified
+ZCZC verifyTokenn aladsterW09 aladster 1449-CEA3 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1550-6318 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1652-31F9 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1753-BD55 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1855-B44D Verified
+ZCZC verifyTokenn aladsterW09 aladster 1957-F847 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2058-ED76 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2159-5D8C Verified
+ZCZC verifyTokenn aladsterW09 aladster 2301-AE80 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2402-04F5 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2503-9ADB Verified
+ZCZC verifyTokenn aladsterW09 aladster 2604-7A03 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2706-3CD3 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2807-C516 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2908-E8E7 Verified
+ZCZC verifyTokenn aladsterW09 aladster 3010-C1F7 Verified
+ZCZC verifyTokenn aladsterW09 aladster 3111-21F2 Verified
+ZCZC verifyTokenn aladsterW09 aladster 3212-4027 Verified
+ZCZC verifyTokenn aladsterW09 aladster 3314-AF09 Verified
+ZCZC verifyTokenn aladsterW09 aladster 3415-70CA Verified
+ZCZC verifyTokenn aladsterW09 aladster 3516-9B1D Verified
+ZCZC verifyTokenn aladsterW09 aladster 3617-1793 Verified
+ZCZC verifyTokenn aladsterW09 aladster 3719-D3B2 Verified
+ZCZC MaxMemory 2128M
+ZCZC MaxMemory 2619M
+ZCZC MaxMemory 3102M
+ZCZC MaxMemory 3587M
+ZCZC verifyTokenn aladsterW09 aladster 3821-BF89 Verified
+ZCZC MaxMemory 4161M
+ZCZC MaxMemory 4600M
+ZCZC MaxMemory 4991M
+ZCZC MaxMemory 5245M
+ZCZC MaxMemory 5356M
+ZCZC MaxMemory 5411M
+ZCZC MaxMemory 5464M
+ZCZC MaxMemory 5485M
+ZCZC MaxMemory 5504M
+ZCZC MaxMemory 5511M
+ZCZC verifyTokenn aladsterW09 aladster 3923-F60C Verified
+ZCZC MaxMemory 5521M
+ZCZC MaxMemory 5530M
+ZCZC MaxMemory 5537M
+ZCZC MaxMemory 5547M
+ZCZC MaxMemory 5557M
+ZCZC MaxMemory 5564M
+ZCZC MaxMemory 5571M
+ZCZC MaxMemory 5579M
+ZCZC MaxMemory 5587M
+ZCZC MaxMemory 5599M
+ZCZC verifyTokenn aladsterW09 aladster 4026-B6C1 Verified
+ZCZC MaxMemory 5623M
+ZCZC MaxROOT 3854M
+ZCZC MaxMemory 5658M
+ZCZC MaxMemory 5693M
+ZCZC MaxMemory 5724M
+ZCZC MaxMemory 5754M
+ZCZC MaxMemory 5781M
+ZCZC MaxMemory 5807M
+ZCZC MaxMemory 5828M
+ZCZC MaxMemory 5847M
+ZCZC MaxMemory 5864M
+ZCZC verifyTokenn aladsterW09 aladster 4129-EB5F Verified
+ZCZC MaxMemory 5887M
+ZCZC MaxMemory 5906M
+ZCZC MaxMemory 5927M
+ZCZC MaxMemory 5946M
+ZCZC MaxMemory 5964M
+ZCZC MaxMemory 5982M
+ZCZC MaxMemory 6000M
+ZCZC MaxMemory 6018M
+ZCZC MaxMemory 6038M
+ZCZC MaxMemory 6058M
+ZCZC verifyTokenn aladsterW09 aladster 4231-2866 Verified
+ZCZC MaxMemory 6081M
+ZCZC MaxMemory 6100M
+ZCZC MaxMemory 6119M
+ZCZC MaxMemory 6137M
+ZCZC MaxMemory 6155M
+ZCZC MaxROOT 4349M
+ZCZC MaxMemory 6162M
+ZCZC MaxMemory 6167M
+ZCZC MaxROOT 4420M
+ZCZC MaxMemory 6168M
+ZCZC verifyTokenn aladsterW09 aladster 4333-9C4D Verified
+ZCZC MaxMemory 6169M
+ZCZC MaxMemory 6170M
+ZCZC MaxMemory 6171M
+ZCZC verifyTokenn aladsterW09 aladster 4434-F2A4 Verified
+ZCZC MaxMemory 6173M
+ZCZC MaxMemory 6174M
+ZCZC MaxROOT 4466M
+ZCZC verifyTokenn aladsterW09 aladster 4535-4624 Verified
+ZCZC verifyTokenn aladsterW09 aladster 4637-E8F1 Verified
+ZCZC verifyTokenn aladsterW09 aladster 4738-23CC Verified
+ZCZC verifyTokenn aladsterW09 aladster 4839-EA28 Verified
+ZCZC verifyTokenn aladsterW09 aladster 4940-9AC4 Verified
+ZCZC verifyTokenn aladsterW09 aladster 5041-E200 Verified
+ZCZC verifyTokenn aladsterW09 aladster 5142-4FBA Verified
+ZCZC verifyTokenn aladsterW09 aladster 5243-B146 Verified
+ZCZC verifyTokenn aladsterW09 aladster 5345-B674 Verified
+ZCZC verifyTokenn aladsterW09 aladster 5446-E14C Verified
+ZCZC verifyTokenn aladsterW09 aladster 5547-8950 Verified
+ZCZC verifyTokenn aladsterW09 aladster 5648-0D90 Verified
+ZCZC verifyTokenn aladsterW09 aladster 5749-610B Verified
+ZCZC verifyTokenn aladsterW09 aladster 5850-A655 Verified
+ZCZC verifyTokenn aladsterW09 aladster 5951-5490 Verified
+ZCZC verifyTokenn aladsterW09 aladster 0052-9DC3 Verified
+ZCZC verifyTokenn aladsterW09 aladster 0154-F5C6 Verified
+ZCZC verifyTokenn aladsterW09 aladster 0255-C625 Verified
+ZCZC verifyTokenn aladsterW09 aladster 0356-CB85 Verified
+ZCZC MaxROOT 4467M
+ZCZC MaxROOT 4468M
+ZCZC MaxROOT 4469M
+ZCZC MaxROOT 4470M
+ZCZC MaxROOT 4472M
+ZCZC MaxROOT 4475M
+ZCZC MaxROOT 4477M
+ZCZC verifyTokenn aladsterW09 aladster 0457-A241 Verified
+ZCZC MaxROOT 4478M
+ZCZC verifyTokenn aladsterW09 aladster 0558-0822 Verified
+ZCZC verifyTokenn aladsterW09 aladster 0700-9219 Verified
+ZCZC verifyTokenn aladsterW09 aladster 0803-6CFB Verified
+ZCZC verifyTokenn aladsterW09 aladster 0904-3291 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1005-3F8A Verified
+ZCZC verifyTokenn aladsterW09 aladster 1106-F645 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1207-5F51 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1309-5153 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1410-8BCF Verified
+ZCZC verifyTokenn aladsterW09 aladster 1511-DA79 Verified

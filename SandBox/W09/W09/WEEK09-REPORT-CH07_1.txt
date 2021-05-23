@@ -1,0 +1,18 @@
+ZCZC ===== Chapter 07_1 =====  Week 09 =====
+ZCZC pwd /home/aladster/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1324
+ZCZC hostname aladster
+ZCZC username aladster
+ZCZC Please Wait...
+ZCZC okSources 82
+ZCZC READY!
+ZCZC Sources  418M	/mnt/lfs/sources/
+ZCZC verifyTokenn aladsterW09 aladster 2432-52B8 Verified
+ZCZC MaxLFS 3076M
+ZCZC MaxROOT 3642M
+ZCZC MaxMemory 162M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 163M
+ZCZC MaxMemory 171M
+ZCZC MaxMemory 173M
+ZCZC MaxMemory 174M

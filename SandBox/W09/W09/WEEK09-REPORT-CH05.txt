@@ -1,0 +1,150 @@
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/aladster/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1204
+ZCZC hostname aladster
+ZCZC username aladster
+ZCZC Please Wait...
+ZCZC okSources 82
+ZCZC READY!
+ZCZC Sources  418M	/mnt/lfs/sources/
+ZCZC verifyTokenn aladsterW09 aladster 0412-0DAF Verified
+ZCZC MaxLFS 469M
+ZCZC MaxROOT 3641M
+ZCZC MaxMemory 169M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 170M
+ZCZC MaxMemory 176M
+ZCZC MaxLFS 796M
+ZCZC MaxMemory 180M
+ZCZC verifyTokenn aladsterW09 aladster 0514-B7A5 Verified
+ZCZC MaxMemory 183M
+ZCZC MaxLFS 798M
+ZCZC MaxMemory 216M
+ZCZC MaxLFS 804M
+ZCZC MaxMemory 239M
+ZCZC MaxLFS 815M
+ZCZC MaxMemory 279M
+ZCZC MaxLFS 867M
+ZCZC MaxLFS 889M
+ZCZC MaxROOT 3642M
+ZCZC MaxMemory 352M
+ZCZC MaxLFS 1009M
+ZCZC MaxROOT 3643M
+ZCZC MaxMemory 364M
+ZCZC MaxLFS 1034M
+ZCZC verifyTokenn aladsterW09 aladster 0616-9807 Verified
+ZCZC MaxLFS 1062M
+ZCZC MaxLFS 1167M
+ZCZC MaxLFS 1410M
+ZCZC MaxLFS 1495M
+ZCZC verifyTokenn aladsterW09 aladster 0717-DD03 Verified
+ZCZC MaxLFS 1496M
+ZCZC MaxLFS 1497M
+ZCZC MaxLFS 1503M
+ZCZC MaxLFS 1514M
+ZCZC verifyTokenn aladsterW09 aladster 0818-BA0C Verified
+ZCZC MaxLFS 1534M
+ZCZC MaxLFS 1542M
+ZCZC MaxLFS 1549M
+ZCZC MaxLFS 1560M
+ZCZC MaxLFS 1563M
+ZCZC MaxLFS 1568M
+ZCZC MaxLFS 1578M
+ZCZC MaxLFS 1583M
+ZCZC verifyTokenn aladsterW09 aladster 0920-156B Verified
+ZCZC MaxLFS 1591M
+ZCZC MaxMemory 397M
+ZCZC MaxLFS 1604M
+ZCZC MaxMemory 968M
+ZCZC MaxLFS 1648M
+ZCZC MaxLFS 1659M
+ZCZC MaxLFS 1682M
+ZCZC MaxMemory 1190M
+ZCZC MaxLFS 1689M
+ZCZC MaxROOT 3650M
+ZCZC MaxMemory 1254M
+ZCZC MaxLFS 1701M
+ZCZC MaxROOT 3662M
+ZCZC MaxLFS 1728M
+ZCZC MaxMemory 1302M
+ZCZC MaxLFS 1736M
+ZCZC MaxMemory 1645M
+ZCZC MaxLFS 1756M
+ZCZC verifyTokenn aladsterW09 aladster 1022-67AC Verified
+ZCZC MaxLFS 1770M
+ZCZC MaxLFS 1786M
+ZCZC MaxMemory 1932M
+ZCZC MaxLFS 1799M
+ZCZC MaxLFS 1812M
+ZCZC MaxMemory 2116M
+ZCZC MaxLFS 1819M
+ZCZC MaxMemory 2547M
+ZCZC MaxLFS 1827M
+ZCZC MaxROOT 3665M
+ZCZC MaxLFS 1839M
+ZCZC MaxROOT 3673M
+ZCZC MaxLFS 1856M
+ZCZC MaxROOT 3711M
+ZCZC MaxLFS 1892M
+ZCZC MaxLFS 1909M
+ZCZC verifyTokenn aladsterW09 aladster 1125-718E Verified
+ZCZC MaxLFS 1930M
+ZCZC MaxLFS 1942M
+ZCZC MaxLFS 1963M
+ZCZC MaxLFS 1984M
+ZCZC MaxLFS 2001M
+ZCZC MaxLFS 2018M
+ZCZC MaxROOT 3724M
+ZCZC MaxLFS 2031M
+ZCZC MaxROOT 3727M
+ZCZC MaxLFS 2048M
+ZCZC MaxROOT 3728M
+ZCZC MaxLFS 2065M
+ZCZC MaxLFS 2119M
+ZCZC verifyTokenn aladsterW09 aladster 1228-C81F Verified
+ZCZC MaxLFS 2143M
+ZCZC MaxLFS 2165M
+ZCZC MaxLFS 2172M
+ZCZC MaxLFS 2199M
+ZCZC MaxLFS 2222M
+ZCZC MaxLFS 2243M
+ZCZC MaxLFS 2257M
+ZCZC MaxLFS 2272M
+ZCZC MaxLFS 2293M
+ZCZC MaxLFS 2305M
+ZCZC verifyTokenn aladsterW09 aladster 1330-B237 Verified
+ZCZC MaxLFS 2331M
+ZCZC MaxLFS 2354M
+ZCZC MaxLFS 2364M
+ZCZC MaxLFS 2389M
+ZCZC MaxLFS 2399M
+ZCZC MaxLFS 2425M
+ZCZC MaxLFS 2439M
+ZCZC MaxLFS 2449M
+ZCZC MaxLFS 2464M
+ZCZC MaxLFS 2486M
+ZCZC verifyTokenn aladsterW09 aladster 1433-A01E Verified
+ZCZC MaxLFS 2501M
+ZCZC MaxLFS 2572M
+ZCZC MaxROOT 3752M
+ZCZC MaxLFS 2582M
+ZCZC MaxLFS 2672M
+ZCZC MaxMemory 2659M
+ZCZC verifyTokenn aladsterW09 aladster 1535-D6EF Verified
+ZCZC MaxLFS 3399M
+ZCZC MaxMemory 2701M
+ZCZC MaxLFS 3690M
+ZCZC MaxLFS 3702M
+ZCZC MaxLFS 4821M
+ZCZC MaxLFS 4826M
+ZCZC verifyTokenn aladsterW09 aladster 1636-51CE Verified
+ZCZC verifyTokenn aladsterW09 aladster 1737-9895 Verified
+ZCZC verifyTokenn aladsterW09 aladster 1838-670B Verified
+ZCZC verifyTokenn aladsterW09 aladster 1940-DBCC Verified
+ZCZC verifyTokenn aladsterW09 aladster 2042-C36A Verified
+ZCZC verifyTokenn aladsterW09 aladster 2144-5E67 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2246-4DDD Verified
+ZCZC verifyTokenn aladsterW09 aladster 2347-6B30 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2449-AF94 Verified
+ZCZC verifyTokenn aladsterW09 aladster 2550-B91E Verified
+ZCZC verifyTokenn aladsterW09 aladster 2652-4792 Verified
